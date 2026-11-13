@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hola, soy María 👋
 
-<!--
-**mariamartoslozano/mariamartoslozano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de **1º de Desarrollo de Aplicaciones Multiplataforma (DAM)**, actualmente dando mis primeros pasos en el mundo del software y descubriendo todo lo que este sector tiene por ofrecer.
 
-Here are some ideas to get you started:
+### 🛠️ En qué estoy trabajando ahora
+* **Programación:** Java (Eclipse)
+* **Lenguajes de marcas:** HTML y XML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Este perfil es mi espacio de aprendizaje: aquí iré subiendo pequeños proyectos a medida que avanzo en el ciclo.
+
+---
+
+💬 *Si te interesa lo que ves y encaja con tu equipo, estoy abierta a oportunidades de prácticas en remoto (disponibilidad en toda España).*  
+🔗 Puedes ver más sobre mi trayectoria en **[LinkedIn](linkedin.com/in/mariamartoslozano/)**.
