@@ -1,10 +1,10 @@
-¡Hola mundo! Soy María 🌸
+#¡Hola mundo! Soy María 🌸
 
 Una apasionada del ámbito social que ha decidido dar un giro a su camino profesional y adentrarse en el mundo de la tecnología y la programación.
 
-Actualmente curso 1.º de Desarrollo de Aplicaciones Multiplataforma (DAM), dando mis primeros pasos en el desarrollo de software y descubriendo todo lo que este sector tiene por ofrecer.
+Actualmente curso **1.º de Desarrollo de Aplicaciones Multiplataforma (DAM)**, dando mis primeros pasos en el desarrollo de software y descubriendo todo lo que este sector tiene por ofrecer.
 
-🛠️ En qué estoy trabajando ahora
+###🛠️ En qué estoy trabajando ahora
 
 * Programación: Java (Eclipse).
 * Lenguajes de marcas: HTML y XML.
