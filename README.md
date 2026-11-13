@@ -11,10 +11,10 @@ Actualmente curso **1.º de Desarrollo de Aplicaciones Multiplataforma (DAM)**, 
 
 #### 🌱 Mi camino de aprendizaje
 
-Este perfil es mi espacio de aprendizaje y evolución: aquí iré compartiendo ejercicios, prácticas y pequeños proyectos a medida que avance en el ciclo.
+Este perfil es mi espacio de aprendizaje y evolución: aquí iré compartiendo pequeños proyectos a medida que avance en el ciclo.
 Mi objetivo es seguir aprendiendo, afrontar nuevos retos y construir mi camino en el mundo del desarrollo de software.
 
 ---
 
-💬 *Si te interesa lo que ves y encaja con tu equipo, estoy abierta a oportunidades de prácticas en remoto (disponibilidad en toda España).*  
+💬 *Si te interesa lo que ves y encaja con tu equipo, estoy abierta a oportunidades de **prácticas en remoto** (disponibilidad en toda España).*  
 🔗 Puedes ver más sobre mi trayectoria en **[LinkedIn](linkedin.com/in/mariamartoslozano/)**.
